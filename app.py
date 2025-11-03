@@ -48,7 +48,7 @@ def predict():
     prediction = model.predict(df)[0]
 
     # Show result on same page
-    result_text = f"🏡 Predicted House Price: ${prediction:,.2f}"
+    result_text = f" Predicted House Price: ${prediction:,.2f}"
 
     return render_template('index.html', prediction_text=result_text)
 
@@ -57,3 +57,4 @@ def predict():
 # ------------------------------
 if __name__ == '__main__':
     app.run(debug=True)
+
