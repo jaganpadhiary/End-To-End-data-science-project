@@ -82,3 +82,6 @@ Use advanced ML models (e.g., Random Forest, XGBoost)
 Deploy on Render, Heroku, or AWS
 
 Improve frontend using TailwindCSS or Bootstrap
+
+
+<img width="393" height="423" alt="Image" src="https://github.com/user-attachments/assets/1afa98e4-33d7-4731-8427-c24bcb8fb844" />
