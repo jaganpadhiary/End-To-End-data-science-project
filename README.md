@@ -8,6 +8,8 @@
 *DOMAIN* : DATA SCIENCE
 
 *DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTOSH KUMAR
 #  Housing Price Prediction Web App
 
 This is an **end-to-end Machine Learning and Flask web application** that predicts **house prices** based on various features such as location, income, and housing details.  
